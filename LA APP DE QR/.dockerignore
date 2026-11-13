@@ -1,0 +1,6 @@
+.venv
+*.db
+assets
+__pycache__
+*.pyc
+.git
